@@ -1,0 +1,50 @@
+[
+{
+"ID":"Employees",
+"imgContClass":"w-52 h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/employee1.avif",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Employees",
+"imgContClass":"w-52 h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/employee2.jpeg",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Employees",
+"imgContClass":" h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/employee3.jpeg",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Employees",
+"imgContClass":" h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/employee4.jpeg",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Partners",
+"imgContClass":" h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/partner.jpeg",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Partners",
+"imgContClass":" h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/partner1.webp",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Partners",
+"imgContClass":" h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/socialize2.jpeg",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+},
+{
+"ID":"Partners",
+"imgContClass":" h-60 overflow-hidden rounded-2xl",
+"imgSrc":"/images/partner3.jpeg",
+"imgClass":"w-full h-full object-cover hover:w-110% hover:h-110% transition-width transition-height duration-1000 rounded-2xl"
+}
+]

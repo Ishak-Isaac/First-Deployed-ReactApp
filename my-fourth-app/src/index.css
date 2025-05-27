@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{font-family:"MochiyPopOne"; src:url("/fonts/MochiyPopPOne-Regular.woff2") format("woff2");}
+@font-face{font-family:"Quicksand"; src:url("/fonts/Quicksand-Regular.woff2") format("woff2");}
+@font-face{font-family:"Quicksand"; src:url("/fonts/Quicksand-Medium.woff2") format("woff2");}
