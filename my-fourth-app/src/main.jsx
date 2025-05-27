@@ -15,7 +15,7 @@ function Navi(){
 const [input, setInput]= useState("");
 const [formMessage, setFormMessage] = useState("");
 const [formSeen, setFormSeen] = useState(false)
-const [menu, setMenu] = useState("fixed z-10 inset-0 bg-rich-purple relative text-white hidden");
+const [menu, setMenu] = useState("fixed z-20 inset-0 bg-rich-purple relative text-white hidden");
 
 useEffect(function(){
 const bouncy = document.querySelector("#bouncy");
@@ -32,11 +32,11 @@ else{bouncy.style.animationPlayState = "paused";}
 
 
 function menuVisible(){
-if(menu === "fixed z-10 inset-0 bg-rich-purple text-white hidden"){
-setMenu("fixed z-10 inset-0 bg-rich-purple text-white");
+if(menu === "fixed z-20 inset-0 bg-rich-purple text-white hidden"){
+setMenu("fixed z-20 inset-0 bg-rich-purple text-white");
 }
 else{
-setMenu("fixed z-10 inset-0 bg-rich-purple text-white hidden");
+setMenu("fixed z-20 inset-0 bg-rich-purple text-white hidden");
 }
 }
 
@@ -67,7 +67,7 @@ else{setFormSeen(false);}
 
 return(
 <>
-<div className="flex gap-5 sticky top-7 z-40">
+<div className="flex gap-5 sticky top-7 z-10">
  <div className="w-20 border-2 border-white bg-yellow-600 rounded-2xl" id="bouncy"><Link to="/page1" className=""><img src="/images/friends.png" alt="" className="w-full h-full object-cover"></img></Link></div>
  <div className="flex bg-white/25 backdrop-blur-2xl text-white py-5 px-4 rounded-full" id="backBlurry" style={{flexBasis: "95%"}}>
   <div className="flex">
